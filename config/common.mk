@@ -220,7 +220,7 @@ $(call inherit-product, packages/services/VncFlinger/product.mk)
 
 # # Hide nav Overlays
 PRODUCT_PACKAGES += \
-    ImmersiveNavigationOverlay  
+    ImmersiveNavigationOverlay
 
 # Permissions
 PRODUCT_COPY_FILES += \
